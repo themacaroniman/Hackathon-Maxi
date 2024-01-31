@@ -1,14 +1,10 @@
 # Hackathon-Maxi
 ## Ide projek
-projek ku 
+projek ku website untuk mencari tahu kendaraan dan total emisi yg dikeluarkan(maxi)
 
 ## Bahan bahan
-file html dan sbg
+file html , css, gambar gambar, file python untuk backend
 ### Library
 1. Flask
 2. Jinja
-3. Tensorflow
-4. numpy
-5. requests
-6. Pillow
-7. keras 
+3. flask_sqlalchemy
